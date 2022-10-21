@@ -1,3 +1,3 @@
 # Assembly Programming
 
-A few programs to practice coding in ARM Assembly.
+A few of my programs in ARM Assembly.
